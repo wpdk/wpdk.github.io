@@ -1,39 +1,7 @@
-## Welcome to GitHub Pages
+The Windows Platform Development Kit (WPDK) enables applications based on the Storage Performance Development Kit (SPDK) to build and run as native Windows executables by providing header files and a lightweight library that implement required POSIX/Linux functionality.
 
-You can use the [editor on GitHub](https://github.com/wpdk/wpdk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The project grew out of work being done by MayaData to build Mayastor, a high speed Container Attached Storage stack for OpenEBS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The scope of the project is limited to supporting the Storage Performance Development Kit. It is not intended to be a generic Linux emulation library like Cygwin. Functionality is mapped as closely as possible to existing Windows semantics with the minimum of emulation.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wpdk/wpdk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
+The code, documentation and current status can be found in the [WPDK Repository](https://github.com/wpdk/wpdk).
