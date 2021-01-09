@@ -9,6 +9,7 @@ The project is at an alpha stage:
 * All of the SPDK source compiles, apart from spdk_top which requires *libcurses*.
 * All of the SPDK Unit Tests pass.
 * The iSCSI target can serve storage.
+* The NVMe over TCP target can serve storage.
 * Unit tests exist for the majority of the WPDK functionality.
 
 ## Contributing
