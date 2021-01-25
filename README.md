@@ -10,6 +10,7 @@ The project is at an alpha stage:
 * All of the SPDK Unit Tests pass.
 * The iSCSI target can serve storage.
 * The NVMe over TCP target can serve storage.
+* The SPDK stack can attach to a physical NVMe disk and issue I/O.
 * Unit tests exist for the majority of the WPDK functionality.
 
 ## Contributing
