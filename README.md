@@ -23,6 +23,5 @@ together with a [Getting Started](https://github.com/wpdk/wpdk#start) guide.
 Contributions are welcome and needed!
 
 Please join the [SPDK community](https://spdk.io/community) and tell us how you are using SPDK on Windows.
-
 For real-time discussions, the SPDK Slack contains a [Windows channel](https://spdk-team.slack.com/archives/C01Q700GPGU).
 
