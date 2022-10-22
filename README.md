@@ -2,6 +2,12 @@ The Windows Platform Development Kit (WPDK) enables applications based on the St
 
 The project grew out of work being done by [DataCore](https://datacore.com/) to build [OpenEBS Mayastor](https://github.com/openebs/mayastor), a high speed Container Attached Storage stack for [OpenEBS](https://openebs.io/).
 
+## Recent News
+
+[DataCore](https://datacore.com) has contributed the Windows Driver Unit Test Framework (WDUTF) to enable the unit testing of Windows kernel drivers. This has been a key tool in DataCore's test and development process for many years.
+
+For more details, see the [WDUTF Repository](https://github.com/wpdk/wdutf) where the code and documentation can be found!
+
 ## Current Status
 
 The project is at an alpha stage:
